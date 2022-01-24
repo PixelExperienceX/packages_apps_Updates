@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.pixelexperience.ota;
+package org.pixelexperiencex.ota;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -23,8 +23,8 @@ import android.content.SharedPreferences;
 
 import androidx.preference.PreferenceManager;
 
-import org.pixelexperience.ota.misc.Constants;
-import org.pixelexperience.ota.misc.Utils;
+import org.pixelexperiencex.ota.misc.Constants;
+import org.pixelexperiencex.ota.misc.Utils;
 
 public class UpdaterReceiver extends BroadcastReceiver {
 

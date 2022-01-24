@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.pixelexperience.ota.controller;
+package org.pixelexperiencex.ota.controller;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -25,11 +25,11 @@ import android.util.Log;
 
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
-import org.pixelexperience.ota.download.DownloadClient;
-import org.pixelexperience.ota.misc.Utils;
-import org.pixelexperience.ota.model.Update;
-import org.pixelexperience.ota.model.UpdateInfo;
-import org.pixelexperience.ota.model.UpdateStatus;
+import org.pixelexperiencex.ota.download.DownloadClient;
+import org.pixelexperiencex.ota.misc.Utils;
+import org.pixelexperiencex.ota.model.Update;
+import org.pixelexperiencex.ota.model.UpdateInfo;
+import org.pixelexperiencex.ota.model.UpdateStatus;
 
 import java.io.File;
 import java.io.IOException;
